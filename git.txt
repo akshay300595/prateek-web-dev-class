@@ -1,0 +1,16 @@
+repository - folder
+branch - folders ki different dimesnions
+
+
+
+to check git installed in system - git , git --version
+
+
+to take clone on local system from git: 
+git clone https://github.com/akshay300595/prateek-web-dev-class.git
+
+
+to push changes on git from local system:
+git add 
+git commit 
+git push
