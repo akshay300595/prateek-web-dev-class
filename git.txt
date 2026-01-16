@@ -14,3 +14,10 @@ to push changes on git from local system:
 git add 
 git commit 
 git push
+
+
+branch creation : git branch
+enter in branch : git checkout
+take changes of branch present on git: git pull origin <branch-name> --no-ff --no-rebase
+take branch which is on git : git fetch
+
