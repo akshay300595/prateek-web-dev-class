@@ -1,0 +1,39 @@
+*{
+ margin: 0;
+ padding:0;
+ overflow-x: hidden;
+}
+
+#navigation {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+#list {
+    display: flex;
+    gap: 40px;
+    z-index: 3;
+}
+
+#logo {
+    width: 20%;
+    height: auto;
+    z-index: 2;
+ 
+}
+
+header.main {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px 20px;
+    border: 2px solid red;
+}
+
+#banner {
+    position: absolute;
+    top: 0;
+    left: 0;    
+}
+
